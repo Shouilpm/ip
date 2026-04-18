@@ -58,8 +58,6 @@
 199.19.104.142:1443#58-US-158ms
 173.242.118.165:10003#59-US-159ms
 43.153.84.176:520#60-US-159ms
-202.126.65.93:4443#61-CN-173ms
-202.126.65.91:5443#62-CN-186ms
 cloudflare.lingyucat.com#三网通用V4+V6:443#1-扩展-手动
 ct.cloudflare.lingyucat.com#电信V4:443#2-扩展-手动
 cm.cloudflare.lingyucat.com#移动V4:443#3-扩展-手动
